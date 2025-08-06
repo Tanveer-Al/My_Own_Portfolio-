@@ -168,15 +168,7 @@ export const projects = [
     description:
       "A full-stack application that uses advanced AI techniques to generate images based on user inputs. The platform allows users to create unique visuals for various purposes, from art to marketing.",
     image: imageGeneratorAiLogo,
-    tags: [
-      "React JS",
-      "Node.js",
-      "MongoDB",
-      "Express",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    tags: ["React JS", "Node.js", "Express", "MongoDB", "Modeislab API"],
     github: "https://github.com/Tanveer-Al/Image_Generater_AI_",
     webapp: "https://imagegeneraterai.netlify.app/",
   },
@@ -186,7 +178,7 @@ export const projects = [
     description:
       "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
     image: RestaurantReservationLogo,
-    tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
+    tags: ["React JS", "Node.js", "Express", "MongoDB", "API"],
     github: "https://github.com/codingmastr/Movie-Recommendation-App",
     webapp: "https://restaurantreservationbytanveer.netlify.app/",
   },
